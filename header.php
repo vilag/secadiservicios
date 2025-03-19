@@ -108,7 +108,7 @@
                                     </div>
                                     <div class="address_info">
                                         <h3 style="">Llamanos</h3>
-                                        <p>33 23154328</p>
+                                        <p>33 18203054</p>
                                     </div>
                                 </div>
                             </div>
