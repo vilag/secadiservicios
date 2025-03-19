@@ -30,7 +30,7 @@
                                         Contactanos:
                                 </h3>
                            <!-- <p>5th flora, 700/D kings road, green <br> lane New York-1782 <br>-->
-                                <a href="#" style="color: #B0B6BD;">33 23154328</a> <br>
+                                <a href="#" style="color: #B0B6BD;">33 18203054</a> <br>
                                 <a href="#" style="color: #B0B6BD;">cotiza@secadiservicios.com</a>
                             </p>
                             <p>
