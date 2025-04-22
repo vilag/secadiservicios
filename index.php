@@ -108,7 +108,7 @@
                 <div class="row align-items-center">
                     <div class="col-xl-6  col-md-6">
                         <div class="about_thumb">
-                            <img src="img/about/about_c.png" alt="">
+                            <img src="img/about/atun_inicio_fin.png" alt="">
                             <div class="pattern_img d-none d-lg-block">
                                <!-- <img src="img/pattern/pattern.svg" alt="">-->
                             </div>
@@ -351,6 +351,210 @@
                     <div class="single_gallery">
                         <div class="thumb">
                             <img src="img/galeria/21.png" alt="">
+                        </div>
+                        <!--<div class="gallery_hover">
+                            <div class="hover_inner d-flex align-items-center justify-content-between">
+                                <h3>Maintenance & Repair</h3>
+                                <div class="icon">
+                                        <a href="project_details.html">
+                                        <i class="ti-angle-right"></i>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>-->
+                    </div>
+                </div>
+                <div class="col-xl-3 col-lg-3 col-md-6 grid-item cat1 cat2 cat3 cat4">
+                    <div class="single_gallery">
+                        <div class="thumb">
+                            <img src="img/galeria/jamaica.png" alt="">
+                        </div>
+                        <!--<div class="gallery_hover">
+                            <div class="hover_inner d-flex align-items-center justify-content-between">
+                                <h3>Maintenance & Repair</h3>
+                                <div class="icon">
+                                        <a href="project_details.html">
+                                        <i class="ti-angle-right"></i>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>-->
+                    </div>
+                </div>
+                <div class="col-xl-3 col-lg-3 col-md-6 grid-item cat1 cat2 cat3 cat4">
+                    <div class="single_gallery">
+                        <div class="thumb">
+                            <img src="img/galeria/atun.png" alt="">
+                        </div>
+                        <!--<div class="gallery_hover">
+                            <div class="hover_inner d-flex align-items-center justify-content-between">
+                                <h3>Maintenance & Repair</h3>
+                                <div class="icon">
+                                        <a href="project_details.html">
+                                        <i class="ti-angle-right"></i>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>-->
+                    </div>
+                </div>
+                <div class="col-xl-3 col-lg-3 col-md-6 grid-item cat1 cat2 cat3 cat4">
+                    <div class="single_gallery">
+                        <div class="thumb">
+                            <img src="img/galeria/chile.png" alt="">
+                        </div>
+                        <!--<div class="gallery_hover">
+                            <div class="hover_inner d-flex align-items-center justify-content-between">
+                                <h3>Maintenance & Repair</h3>
+                                <div class="icon">
+                                        <a href="project_details.html">
+                                        <i class="ti-angle-right"></i>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>-->
+                    </div>
+                </div>
+                <div class="col-xl-3 col-lg-3 col-md-6 grid-item cat1 cat2 cat3 cat4">
+                    <div class="single_gallery">
+                        <div class="thumb">
+                            <img src="img/galeria/desodorante.png" alt="">
+                        </div>
+                        <!--<div class="gallery_hover">
+                            <div class="hover_inner d-flex align-items-center justify-content-between">
+                                <h3>Maintenance & Repair</h3>
+                                <div class="icon">
+                                        <a href="project_details.html">
+                                        <i class="ti-angle-right"></i>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>-->
+                    </div>
+                </div>
+                <div class="col-xl-3 col-lg-3 col-md-6 grid-item cat1 cat2 cat3 cat4">
+                    <div class="single_gallery">
+                        <div class="thumb">
+                            <img src="img/galeria/a.png" alt="">
+                        </div>
+                        <!--<div class="gallery_hover">
+                            <div class="hover_inner d-flex align-items-center justify-content-between">
+                                <h3>Maintenance & Repair</h3>
+                                <div class="icon">
+                                        <a href="project_details.html">
+                                        <i class="ti-angle-right"></i>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>-->
+                    </div>
+                </div>
+                <div class="col-xl-3 col-lg-3 col-md-6 grid-item cat1 cat2 cat3 cat4">
+                    <div class="single_gallery">
+                        <div class="thumb">
+                            <img src="img/galeria/b.png" alt="">
+                        </div>
+                        <!--<div class="gallery_hover">
+                            <div class="hover_inner d-flex align-items-center justify-content-between">
+                                <h3>Maintenance & Repair</h3>
+                                <div class="icon">
+                                        <a href="project_details.html">
+                                        <i class="ti-angle-right"></i>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>-->
+                    </div>
+                </div>
+                <div class="col-xl-3 col-lg-3 col-md-6 grid-item cat1 cat2 cat3 cat4">
+                    <div class="single_gallery">
+                        <div class="thumb">
+                            <img src="img/galeria/c.png" alt="">
+                        </div>
+                        <!--<div class="gallery_hover">
+                            <div class="hover_inner d-flex align-items-center justify-content-between">
+                                <h3>Maintenance & Repair</h3>
+                                <div class="icon">
+                                        <a href="project_details.html">
+                                        <i class="ti-angle-right"></i>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>-->
+                    </div>
+                </div>
+                <div class="col-xl-3 col-lg-3 col-md-6 grid-item cat1 cat2 cat3 cat4">
+                    <div class="single_gallery">
+                        <div class="thumb">
+                            <img src="img/galeria/d.png" alt="">
+                        </div>
+                        <!--<div class="gallery_hover">
+                            <div class="hover_inner d-flex align-items-center justify-content-between">
+                                <h3>Maintenance & Repair</h3>
+                                <div class="icon">
+                                        <a href="project_details.html">
+                                        <i class="ti-angle-right"></i>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>-->
+                    </div>
+                </div>
+                <div class="col-xl-3 col-lg-3 col-md-6 grid-item cat1 cat2 cat3 cat4">
+                    <div class="single_gallery">
+                        <div class="thumb">
+                            <img src="img/galeria/e.png" alt="">
+                        </div>
+                        <!--<div class="gallery_hover">
+                            <div class="hover_inner d-flex align-items-center justify-content-between">
+                                <h3>Maintenance & Repair</h3>
+                                <div class="icon">
+                                        <a href="project_details.html">
+                                        <i class="ti-angle-right"></i>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>-->
+                    </div>
+                </div>
+                <div class="col-xl-3 col-lg-3 col-md-6 grid-item cat1 cat2 cat3 cat4">
+                    <div class="single_gallery">
+                        <div class="thumb">
+                            <img src="img/galeria/f.png" alt="">
+                        </div>
+                        <!--<div class="gallery_hover">
+                            <div class="hover_inner d-flex align-items-center justify-content-between">
+                                <h3>Maintenance & Repair</h3>
+                                <div class="icon">
+                                        <a href="project_details.html">
+                                        <i class="ti-angle-right"></i>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>-->
+                    </div>
+                </div>
+                <div class="col-xl-3 col-lg-3 col-md-6 grid-item cat1 cat2 cat3 cat4">
+                    <div class="single_gallery">
+                        <div class="thumb">
+                            <img src="img/galeria/g.png" alt="">
+                        </div>
+                        <!--<div class="gallery_hover">
+                            <div class="hover_inner d-flex align-items-center justify-content-between">
+                                <h3>Maintenance & Repair</h3>
+                                <div class="icon">
+                                        <a href="project_details.html">
+                                        <i class="ti-angle-right"></i>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>-->
+                    </div>
+                </div>
+                <div class="col-xl-3 col-lg-3 col-md-6 grid-item cat1 cat2 cat3 cat4">
+                    <div class="single_gallery">
+                        <div class="thumb">
+                            <img src="img/galeria/h.png" alt="">
                         </div>
                         <!--<div class="gallery_hover">
                             <div class="hover_inner d-flex align-items-center justify-content-between">
