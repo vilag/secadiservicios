@@ -108,7 +108,7 @@
                 <div class="row align-items-center">
                     <div class="col-xl-6  col-md-6">
                         <div class="about_thumb">
-                            <img src="img/about/atun_jamaica_inicio_fin.png" alt="">
+                            <img src="img/about/atun_jamaica_inicio_fin2.png" alt="">
                             <div class="pattern_img d-none d-lg-block">
                                <!-- <img src="img/pattern/pattern.svg" alt="">-->
                             </div>
